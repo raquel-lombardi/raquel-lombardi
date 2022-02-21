@@ -27,7 +27,7 @@
     
     ##
  
-  ![Snake animation](https://github.com/alinelombardi/raquel-lombardi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/raquel-lombardi/raquel-lombardi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
